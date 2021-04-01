@@ -32,7 +32,7 @@ Once you are done with above changes,
 
 Upon completion of creation of resources, give the below command to access the cluster.
 
-az aks get-credentials --name <cluster-name> --resource-group <resource-group-name>
+az aks get-credentials --name `cluster-name` --resource-group `resource-group-name`
 
 ## Example:
 
