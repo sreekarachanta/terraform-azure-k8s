@@ -6,7 +6,8 @@ This Terraform module deploys a Kubernetes cluster on Azure using AKS (Azure Kub
 
 1. Install Terraform
 2. Install Azure cli(azcli)
-3. Create a resource group manually in the Azure portal that we will be using in the next steps.
+3. Install kubectl
+4. Create a resource group manually in the Azure portal that we will be using in the next steps.
 
 ## Procedure:
 
